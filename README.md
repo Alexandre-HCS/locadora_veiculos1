@@ -29,6 +29,6 @@ Cada tipo de perfil possui um layout próprio para reforçar a diferença entre 
 | Recurso            | Usuário Comum (`perfil_user.php`) | Administrador (`perfil_adm.php`) |
 |--------------------|------------------------------------|-----------------------------------|
 | Exibição de dados  | ✅                                  | ✅                                 |
-| Botão Editar       | ✅                                  | ✅                                 |
+| Botão Editar       | ❌                                  | ✅                                 |
 | Recursos Admin     | ❌                                  | ✅                                 |
 | Layout personalizado | ✅                                | ✅                                 |
