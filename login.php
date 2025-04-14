@@ -1,5 +1,4 @@
 <?php
-// back
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -42,14 +41,14 @@
                         <label for="" class="form-label">
                             Usuário:
                         </label>
-                        <input type="text" name="username" class="form-control" required autocomplete="off" placeholder="Digite seu nome komadre">
+                        <input type="text" name="username" class="form-control" required autocomplete="off" placeholder="Digite seu nome">
                     </div>
 
                     <div class="mb-3 position-relative">
                         <label for="password" class="form-label">
                             Senha:
                         </label>
-                        <input type="password" name="password" id="password" class="form-control" required placeholder="Confie sua senha a nós komadre">
+                        <input type="password" name="password" id="password" class="form-control" required>
                         <span class="password-toggle mt-3" onclick="togglePassword()">
                             <i class="bi bi-eye"></i>
                         </span>
